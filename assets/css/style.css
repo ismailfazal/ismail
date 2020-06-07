@@ -62,7 +62,7 @@ img.grayscale:hover {
     border: 2.5px solid #222;
     position: fixed;
     border-radius: 4px;
-    z-index: 999;
+    z-index: 1099;
     pointer-events: none;
     transition: border-color 0.5s;
 }
@@ -76,7 +76,7 @@ img.grayscale:hover {
     border: 2px solid #222;
     position: fixed;
     border-radius: 100px;
-    z-index: 1000;
+    z-index: 1100;
     pointer-events: none;
 }
 
